@@ -10,7 +10,12 @@ Slack channel: [#snowmelt](https://geohackweek2018.slack.com/messages/CCQT0KTHC)
 * Nicoleta Cristea (cristn@u.washington.edu) (Data Science Lead)
 * Steven Pestana (spestana@uw.edu) (Project Lead)
 * Cassie Lumbrazo (lumbraca@uw.edu) 
-* 
+* Caitlin Littlefield (clittlef@uw.edu)
+* Deeksha Rastogi (rastogi.deeksha@gmail.com)
+* Emma Collins (collinsel2@g.cofc.edu)
+* Nick Gottlieb (ngottlieb@gmail.com)
+* Vivian Griffey (vgriffey@uw.edu)
+* Ian McNabb (mcnabbi@uw.edu)
 
 ---
 
